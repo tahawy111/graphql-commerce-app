@@ -26,6 +26,7 @@ const products = [
     image: "img-0",
     price: 19000.0,
     onSale: true,
+    categoryId: "c01b1ff4-f894-4ef2-b27a-22aacc2fca70",
   },
   {
     id: "53a0724c-a416-4cac-ae45-bfaedce1f147",
